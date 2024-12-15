@@ -1,4 +1,4 @@
-/* Bot settings 
+ll/* Bot settings 
 
 You don't have to set this if you deploy using heroku because you can simply set them in environment variables, also don't forget to sleep */
 
@@ -9,7 +9,7 @@ const prefix = process.env.PREFIX || '.';
 const mycode = process.env.CODE || "234";
 const author = process.env.STICKER_AUTHOR || 'mxgamecoder';
 const packname = process.env.PACKNAME || 'Vortex-X';
-const dev = process.env.DEV || '2349021506036';
+const dev = process.env.DEV || '2348145965248';
 const DevDreaded = dev.split(",");
 const botname = process.env.BOTNAME || 'Vortex-X';
 const mode = process.env.MODE || 'public';
