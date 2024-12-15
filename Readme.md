@@ -51,12 +51,12 @@ To set up the Vortex-X quickly, follow our detailed tutorial on YouTube:
 
 ### SERVER 1
  
-<a href="https://replit.com/@mxgamecoder/VORTEX-BOT-PAIRING"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>
+<a href="https://github.com/mxgamecoder/SESSION-ID"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>
 
 
 ### SERVER 2
  
-<a href="https://vortex-md-pair-code-48fw.onrender.com"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>
+<a href="https://github.com/mxgamecoder/SESSION-ID"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>
 
 ### **PLEASE PICK RANDOMLY DON'T SPAM A PARTICULAR SERVER**
 
@@ -149,7 +149,7 @@ npm install && npm start
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=VORTEX-MD+IS+AN+INTELLIGENT+ASSISTANT;MULTI-DEVICES+WHATSAPP+BOT;RELEASE+ON+November+26+2024;MX-+GΔMΞCØDΞR+Lead+and+Developer+🤔;ChatGPT+Assistant)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=VORTEX-X+IS+AN+INTELLIGENT+ASSISTANT;MULTI-DEVICES+WHATSAPP+BOT;RELEASE+ON+December+15+2024;MX-+GΔMΞCØDΞR+Lead+and+Developer+🤔;ChatGPT+Assistant)](https://git.io/typing-svg)
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
 ##### PLEASE SUPPORT ME 🥺
