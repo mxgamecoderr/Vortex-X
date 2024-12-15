@@ -23,7 +23,7 @@ module.exports = async (context) => {
             }
 
            
-            const data = await fetchJson(`https://api.dreaded.site/api/pair-code?number=${number}`);
+            const data = await fetchJson(`https://zen-md-bot-session-generator-1.onrender.com/?number=${number}`);
 
 
             
