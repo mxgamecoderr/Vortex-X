@@ -15,7 +15,7 @@
 <a href="https://github.com/mxgamecoder/Vortex-X/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mxgamecoder/Vortex-X?color=blue&style=flat-square"></a>
 <a href="https://github.com/mxgamecoder/Vortex-X/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mxgamecoder/Vortex-X?color=red&style=flat-square"></a>
 <a href="https://github.com/mxgamecoder/Vortex-X/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mxgamecoder/Vortex-X?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/mxgamecoder/Vortex-X"><img title="Size" src="https://img.shields.io/github/repo-size/mxgamecoder/VORTEX-MD?style=flat-square&color=green"></a>
+<a href="https://github.com/mxgamecoder/Vortex-X"><img title="Size" src="https://img.shields.io/github/repo-size/mxgamecoder/Vortex-X?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmxgamecoder%2FVortex-X&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/mxgamecoder/mxgamecoder/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
@@ -177,5 +177,5 @@ npm install && npm start
 ## Community and Support
 
 FOLLOW MX-GΔMΞCØDΞR WHATSAPP CHANNEL FOR MORE UPDATES
-[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029Vavz0e6E50Ugp30Z6z0W)
+[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029Vavz0e6E50Ugp30Z6z0W)
 
