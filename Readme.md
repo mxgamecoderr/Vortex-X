@@ -51,12 +51,12 @@ To set up the Vortex-X quickly, follow our detailed tutorial on YouTube:
 
 ### SERVER 1
  
-<a href="https://github.com/mxgamecoder/SESSION-ID"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>
+<a href="https://zen-md-bot-session-generator-1.onrender.com/"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>
 
 
 ### SERVER 2
  
-<a href="https://github.com/mxgamecoder/SESSION-ID"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>
+<a href="https://zen-md-bot-session-generator-1.onrender.com/"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>
 
 ### **PLEASE PICK RANDOMLY DON'T SPAM A PARTICULAR SERVER**
 
