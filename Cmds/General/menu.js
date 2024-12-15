@@ -84,7 +84,7 @@ menuText += `🔓 𝑴𝑶𝑫𝑬:- ${mode}\n`;
         }
 
         await client.sendMessage(m.chat, {
-            video: { url: "https://telegra.ph/file/db49f1db0ec49d2ed289f.mp4" },
+            video: { url: "https://i.imgur.com/9y1iqOH.mp4" },
             caption: menuText,
             gifPlayback: true
         }, {
