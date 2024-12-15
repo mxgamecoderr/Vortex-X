@@ -3,7 +3,7 @@ module.exports = async (context) => {
 
 try {
 
-const cap = "By Dreaded";
+const cap = "By Vortex-X";
 
 if (!m.quoted) return m.reply("Send the image then tag it with the command.");
 

@@ -26,7 +26,7 @@ try {
         } 
 
         let sticker = new Sticker(result, {
-            pack: `dreaded`,
+            pack: `Vortex-X`,
             author:"" ,
             categories: ['🤩', '🎉'],
             id: '12345',
