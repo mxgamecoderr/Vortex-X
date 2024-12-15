@@ -256,7 +256,7 @@ if(presence === 'online')
         };
 
 
-        const getCurrentTimeInNairobi = () => {
+        const getCurrentTimeInLagos = () => {
             return DateTime.now().setZone('Africa/Lagos').toLocaleString(DateTime.TIME_SIMPLE);
         };
 
