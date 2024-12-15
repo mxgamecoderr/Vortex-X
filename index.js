@@ -1,4 +1,4 @@
-/* this is the main file */
+/* Vortex-X brain 🧠*/
 
 
 const {
@@ -46,7 +46,7 @@ async function startDreaded() {
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
 version: [2, 3000, 1015901307],
-        browser: [`DREADED`,'Safari','3.0'],
+        browser: [`Vortex-X`,'Safari','3.0'],
 fireInitQueries: false,
             shouldSyncHistoryMessage: true,
             downloadHistory: true,
@@ -81,7 +81,7 @@ if (autobio === 'true'){
 
                          client.updateProfileStatus( 
 
-                                         `${botname} is active 24/7\n\n${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })} It's a ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}.` 
+                                         `${botname} is active 24/7\n\n${date.toLocaleString('en-US', { timeZone: 'Africa/Lagos' })} It's a ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Lagos'})}.` 
 
                                  ) 
 
@@ -106,7 +106,7 @@ if (autoview === 'true' && autolike === 'true' && mek.key && mek.key.remoteJid =
 
 const mokayas = await client.decodeJid(client.user.id);
 
-await client.sendMessage(mek.key.remoteJid, { react: { key: mek.key, text: '💚'}}, { statusJidList: [mek.key.participant, mokayas] });
+await client.sendMessage(mek.key.remoteJid, { react: { key: mek.key, text: '😩'}}, { statusJidList: [mek.key.participant, mokayas] });
 }
 
 
@@ -141,7 +141,7 @@ if(presence === 'online')
       if (!client.public && !mek.key.fromMe && chatUpdate.type === "notify") return;
       
       m = smsg(client, mek, store);
-      require("./dreaded")(client, m, chatUpdate, store);
+      require("./Vortex-X")(client, m, chatUpdate, store);
     } catch (err) {
       console.log(err);
     }
@@ -235,14 +235,14 @@ if(presence === 'online')
       }
     } else if (connection === "open") {
 
-                 await client.groupAcceptInvite("HPik6o5GenqDBCosvXW3oe");
+                 await client.groupAcceptInvite("E7wrmf4i8dy04nPyCVibtI");
 
 
-        console.log(`✅ Connection successful\nLoaded ${totalCommands} commands.\nBot is active.`);
+        console.log(`😩 Vortex-X Connection successful\nVortex-X plugins is ${totalCommands}\nVortex-X is active.`);
 
 
         const getGreeting = () => {
-            const currentHour = DateTime.now().setZone('Africa/Nairobi').hour;
+            const currentHour = DateTime.now().setZone('Africa/Lagos').hour;
 
             if (currentHour >= 5 && currentHour < 12) {
                 return 'Good morning 🌄';
@@ -257,20 +257,20 @@ if(presence === 'online')
 
 
         const getCurrentTimeInNairobi = () => {
-            return DateTime.now().setZone('Africa/Nairobi').toLocaleString(DateTime.TIME_SIMPLE);
+            return DateTime.now().setZone('Africa/Lagos').toLocaleString(DateTime.TIME_SIMPLE);
         };
 
-        let message = `Holla, ${getGreeting()},\n\nYou are connected to dreaded bot. 📡 \n\n`;
+        let message = `Hello, ${getGreeting()},\n\nVortex-X is now alive created by mxgamecoder, fuck you if you are seeing this message . 📡 \n\n`;
 
         message += `👤 𝑩𝑶𝑻𝑵𝑨𝑴𝑬:- ${botname}\n`;
 message += `🔓 𝑴𝑶𝑫𝑬:- ${mode}\n`;
 message += `✍️ 𝑷𝑹𝑬𝑭𝑰𝑿:- ${prefix}\n`;
-
+        message += '💡 VERSION:- 1.0.0\n\n';
 message += `📝 𝑪𝑶𝑴𝑴𝑨𝑵𝑫𝑺:- ${totalCommands}\n`
-        message += '🕝 𝑻𝑰𝑴𝑬:- ' + getCurrentTimeInNairobi() + '\n';
+        message += '🕝 𝑻𝑰𝑴𝑬:- ' + getCurrentTimeInLagos() + '\n';
         message += '💡 𝑳𝑰𝑩𝑹𝑨𝑹𝒀:- Baileys\n\n';
 
-message += `▞▚▞▚▞▚▞▚▞▚▞▚▞`
+message += `POWERED BY MX-GΔMΞCØDΞR`
 
 
 
