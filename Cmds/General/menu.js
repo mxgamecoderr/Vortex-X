@@ -19,7 +19,7 @@ module.exports = async (context) => {
 
         
         const getGreeting = () => {
-            const currentHour = DateTime.now().setZone('Africa/Nairobi').hour;
+            const currentHour = DateTime.now().setZone('Africa/Lagos').hour;
 
             if (currentHour >= 5 && currentHour < 12) {
                 return 'Good morning 🌄';
@@ -34,11 +34,11 @@ module.exports = async (context) => {
 
        
         const getCurrentTimeInNairobi = () => {
-            return DateTime.now().setZone('Africa/Nairobi').toLocaleString(DateTime.TIME_SIMPLE);
+            return DateTime.now().setZone('Africa/Lagos').toLocaleString(DateTime.TIME_SIMPLE);
         };
 
-        let menuText = `Holla, ${getGreeting()},\n\n`;
-
+        let menuText = `Hello, ${getGreeting()},\n\n`;
+menuText += '🥺 Version:- 1.0.0\n';
         menuText += `👥 𝑼𝑺𝑬𝑹:- ${m.pushName}\n`;
         menuText += `👤 𝑩𝑶𝑻𝑵𝑨𝑴𝑬:- ${botname}\n`;
 menuText += `📝 𝑪𝑶𝑴𝑴𝑨𝑵𝑫𝑺:- ${totalCommands}\n`
