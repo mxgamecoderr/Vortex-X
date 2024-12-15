@@ -37,7 +37,7 @@ module.exports = async (context) => {
         try {
             ppUrl = await client.profilePictureUrl(sender, 'image');
         } catch {
-            ppUrl = "https://i.imgur.com/BsrFTze.jpeg;
+            ppUrl = "https://i.imgur.com/BsrFTze.jpeg";
         }
 
         let status;
